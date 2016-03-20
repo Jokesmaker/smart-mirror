@@ -10,9 +10,9 @@ var commands = {
         "description" : "zurück"
     },
     "sleep": {
-        "text" : "Bereitschaft",
-        "voice": "Bereitschaft",
-        "description" : "Bereitschaft"
+        "text" : "Geh schlafen!",
+        "voice": "Geh schlafen",
+        "description" : "Geht in Schlafmodus"
     },
     "wake_up": {
         "text" : "Aktiviere",
